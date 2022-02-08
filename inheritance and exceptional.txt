@@ -1,0 +1,35 @@
+# OOP's Python Assignments
+
+Q1- What are Class and Object in Python OOP's?
+    
+Q2-    What are the pro & cons of using OOP's
+
+
+Q3- How many types of Inheritance in python OOP's present? 
+    Give programme of each Inheritance type present in Python OOP's.
+
+Q4- What are Pro & Cons of Inheritance?
+
+Q5- What are Destructor & Constructor in Python OOP's?
+    Explain with script example.
+
+Q6- What is Exceptional & Exceptional Handling.
+    Explain with script example.
+
+Q7- Write all the Instructions to install Anaconda in PC.
+
+Q8- Write the commands to create new environment in anaconda & to install new modules/packages 
+    in environment.
+
+Q9- Why we need to have new environment in anaconda?
+
+Q10- Write a Python class to get all possible unique subsets from a set of distinct integers.
+Input : [7, 5, 6]
+Output : [[], [6], [5], [5, 6], [7], [7, 6], [7, 5], [7, 5, 6]]
+
+Q11- Write a Python class to find the three elements that sum to zero from a set of n real numbers.
+Input array : [-25, -10, -7, -3, 2, 4, 8, 10]
+Output : [[-10, 2, 8], [-7, -3, 10]]
+
+
+

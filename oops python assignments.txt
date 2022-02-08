@@ -1,0 +1,27 @@
+OOPS Python Tutorial
+Assignment :
+
+- WAP to find the area and perimeter of a rectangle using 
+  classes and objects .
+
+- Define a class to represent a bank account . Include the 
+  following details like name of the depositor, account number ,type of account , balance amount in the account . Write 
+  methods to assign initial values to deposit an amount , 
+  Withdraw / new deposit an amount after checking the 
+  balance , then display name , account number , account type and current balance .
+
+- WAP to show Hybrid Inheritance Programme in Python.
+
+- Create an programme of Handling Exceptions With Try 
+   Except.
+
+- Create an programme of Handling Multiple Exceptions    
+  With Multiple Excepts.
+
+- Create an programme of Handling Exceptions With Try 
+  Else.
+
+- Create an programme of User define Exceptional handling.
+
+
+
